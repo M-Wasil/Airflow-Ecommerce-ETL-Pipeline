@@ -243,7 +243,7 @@ flowchart TD
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/books-etl-pipeline.git
+git clone https://github.com/<M-Wasil>/books-etl-pipeline.git
 cd books-etl-pipeline
 ```
 
